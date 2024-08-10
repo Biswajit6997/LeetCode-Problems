@@ -12,3 +12,4 @@ jwt.verify(token, secretKey, (err, decoded) => {
         console.log('Decoded token:', decoded);
     }
 });
+
