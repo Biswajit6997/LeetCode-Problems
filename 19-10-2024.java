@@ -36,3 +36,4 @@ class Solution {
 
         return (char) (res + 1); // Increment character by 1
     }
+}
